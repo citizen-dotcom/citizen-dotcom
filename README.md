@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @citizen-dotcom
+- 👋 Hi, I’m Satya Suhas Duddupudi
 
-<!---
-citizen-dotcom/citizen-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Data Engineer at SPB Law Firm. I graduated from The University of Texas at Dallas with a B.S in C.S.
+I have experience in Data Analytics, Machine Learning and Ai with extensive knowledge in Python and SQL. I Have a solid understanding of Snowflake and Docker along with multiple certifications in AWS Cloud,  Databricks, Snowflake and more. I'm used to data driven decision making and improving data infrastructure through modular pipelines, strong data governance and self-serve analytics.
+My technical proficiency extends to tools like Airflow, Git, Dbt, Power BI and Excel. With a focus on developing critical thinking and problem-solving skills, I am eager to contribute to innovative projects, particularly in areas such as AI, and advanced Python topics in academia and business.
